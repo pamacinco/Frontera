@@ -10,10 +10,10 @@ local frontera2 =  '  que vamos a comprobar si eres peruano' --mensaje frontera 
 local apelar = 'Si eres Peruano y quieres apelar haz esto, ' -- Mensaje apelar 
 local apelar2 = ' mandame una foto del dni de tus padres por delante y por detras ' -- Mensaje apelar 2
 local apelar3 = ' por md pamacinco#0659' -- Mensaje apelar 3
-local yaapelaste = ' Bueno, ya veo que apelaste vamos a volver a comprobar'
-local yaapelaste2 = 'si sigues siendo peruano'
-local apelado = ' Felicidades! ya no eres peruano, espero'
-local apelado2 = ' no volvere a ver por aqui...'
+local yaapelaste = ' Bueno, ya veo que apelaste vamos a volver a comprobar' -- Comprobando si eres peruano
+local yaapelaste2 = 'si sigues siendo peruano' -- Comprobando si eres peruano 2
+local apelado = ' Felicidades! ya no eres peruano, espero' -- Mensaje apelado 1
+local apelado2 = ' no volvere a ver por aqui...' -- Mensaje apelado 2
 
 print(variante..' ' ..frontera.. '' ..frontera2.. '')
 for i = 1, 5 do
